@@ -1,11 +1,10 @@
 #include<stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
 /* betty style doc for function main goes there */
 /**
- * this code thows weather a given random number positive,negative or zero
- * return type : 0
+ * main  -thows weather a given random number positive,negative or zero
+ * Return: Always 0
  */
 int main(void)
 {
