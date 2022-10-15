@@ -1,1 +1,1 @@
-loops if ealse while projects
+ if else while project
