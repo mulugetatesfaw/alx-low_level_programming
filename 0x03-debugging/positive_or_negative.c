@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- * main -prints a number sign
- * Return:  always 0
+ * main - prints a number in new line
+ * Return: Always 0
  */
 int main(void)
 {
