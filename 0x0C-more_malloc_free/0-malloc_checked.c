@@ -8,11 +8,11 @@
   *
   * Return: Nothing.
   */
-void *malloc_checked(unsigned int a)
+void *malloc_checked(unsigned int b)
 {
 	void *p;
 
-	p = malloc(a);
+	p = malloc(b);
 
 	if (p == NULL)
 		exit(98);
