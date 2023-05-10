@@ -9,8 +9,6 @@
   * @value: The value to search for.
   *
   * Return: If the value is not present or the array is NULL, -1.
-  *         Otherwise, the index where the value is located.
-  *
   * Description: Prints the [sub]array being searched after each change.
   */
 int _binary_search(int *array, size_t left, size_t right, int value)
