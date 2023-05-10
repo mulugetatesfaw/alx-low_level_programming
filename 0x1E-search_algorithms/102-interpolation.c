@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "search_algos.h"
 
 int interpolation_search(int *arr, size_t size, int value) {
     int low = 0, high = (size - 1);
